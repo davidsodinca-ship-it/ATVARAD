@@ -1,0 +1,80 @@
+body { 
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: rgb(192, 192, 192);
+    color: black; 
+}
+
+header {
+    background-color: rgb(90, 90, 90);
+    padding: 1px;
+    border-radius: 15px  ;
+    border: 4px solid white;
+    justify-content: space-between;
+    padding: 15px;
+    background: rgb(64, 64, 64)
+    
+}
+
+h5 {
+    font-style: bold;
+}
+
+#logo img {
+    border-radius: 10px;
+}
+section {
+    padding: 20px;
+    margin: 10px;
+    background: rgb(53, 49, 49);
+    border-radius: 15px;
+    border: 4px solid #ffffff;
+    color: bisque;
+}
+
+p {
+    color: bisque;
+}
+footer{
+    padding: 20px;
+    margin: 10px;
+    background: rgb(53, 49, 49);
+    border-radius: 15px;
+    border: 4px solid #ffffff;
+    color: bisque;
+}
+
+a{ 
+    text-decoration: none;
+    color: rgb(188, 119, 45);
+}
+
+a:hover {
+    background: rgb(188, 119, 45);
+    color: rgb(255, 255, 255);
+}
+
+li{
+    text-decoration: none;
+    color: rgb(188, 119, 45);
+
+}
+
+li:hover {
+    background: rgb(188, 119, 45);
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-style: bold;
+}
+
+title{
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
